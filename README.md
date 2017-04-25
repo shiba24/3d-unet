@@ -1,4 +1,4 @@
-# 3D UNet implementation
+# 3D UNet implementation [WIP]
 
 This repository includes Tensorflow (v1.0), PyTorch, and Chainer (v2.0) implementations of 3D UNet, semantic segmentation neural network for 3D voxel data.
 
@@ -10,7 +10,7 @@ NOTE: This is not official implementation.
 
 ## Data preparation
 
-Download [SLIVER07 dataset](http://sliver07.org/index.php). You need to register to download it!
+Download [SLIVER07 dataset](http://sliver07.org/index.php). You need to register to download it.
 
 Please let me know if you know better 3D voxel dataset to apply 3D convolutional neural network!
 
