@@ -1,4 +1,4 @@
-# 3D UNet implementation [WIP]
+# 3D UNet implementation [WIP]  [Contribution Welcome]
 
 This repository includes Tensorflow (v1.0), PyTorch, and Chainer (v2.0) implementations of 3D UNet, semantic segmentation neural network for 3D voxel data.
 
