@@ -4,7 +4,7 @@ This repository includes Tensorflow (v1.0), PyTorch, and Chainer (v2.0) implemen
 
 NOTE: This is not official implementation. 
 
-[The original paper](http://lmb.informatik.uni-freiburg.de/Publications/2016/OB16a/oliveira16icra.pdf) is:
+[The original paper](https://arxiv.org/abs/1606.06650) is:
  Özgün Çiçek, Ahmed Abdulkadir, S. Lienkamp, Thomas Brox & Olaf Ronneberger. 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation. Medical Image Computing and Computer-Assisted Intervention (MICCAI), Springer, LNCS, Vol.9901, 424--432, Oct 2016
 
 
@@ -14,18 +14,6 @@ Download [SLIVER07 dataset](http://sliver07.org/index.php). You need to register
 
 Please let me know if you know better 3D voxel dataset to apply 3D convolutional neural network!
 
-
-## PyTorch implementation
-
-### Requirements
-
- - pytorch-0.1.11
-
-### Training
-
-```
-cd pytorch
-```
 
 ## Chainer implementation
 
@@ -41,11 +29,6 @@ cd pytorch
   - tqdm
   - cv2 (opencv)
 
-
-
-## GPU memory requirement and Result
-
-Now in prep.
 
 # LICENSE
 
